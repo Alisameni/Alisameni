@@ -71,6 +71,21 @@
 
 ---
 
+### 💼 Professional Experience
+
+> Private repositories — general description only, no links.
+
+**Backend Developer — [Nexwell](https://nexwell.ai)** ([NexWellTech](https://github.com/NexWellTech) / [NexwellFramework](https://github.com/NexwellFramework))
+- Women's health profile platform, built as microservices
+- Core services: `women`, `doctor`, `medicalcenter`
+- Supporting services: object storage / MinIO, `presence`, `idp`, `otp`
+
+**Backend Developer — Dynoweb ERP cluster** (alongside [Pouya Mardani](https://github.com/pouyaMardani))
+- Spring-based ERP cluster: **Uaa** (Spring Security + JWT, Oracle, Kafka, Zipkin, Prometheus), **Chat** (WebSocket + Kafka, groups/channels, presence), **presence** and **Notification** services
+- Also: `erpParent`, `dynoweb-frm`, `Buiding_manager`, `ApartmentRepo`
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
